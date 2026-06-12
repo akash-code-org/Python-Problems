@@ -13,3 +13,5 @@ elif day == "6":
     print("Saturday: ")
 elif day == "7":
     print("Sunday: ")
+else:
+    print("Choice is invalid: ")
