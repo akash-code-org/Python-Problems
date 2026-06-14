@@ -1,4 +1,9 @@
-#n = int(input("Enter the number: "))
-for i in range(1,10):
-    i+=2
+for i in range(1,6):
+    i+=2 # 2 4 5 6 7
+    i-=2 # 1 2 3 4 5
+    i*=2 # 2 4 6 8 10
+    i/=2 # 1 2 3 4 5
+    i**=2# 1 04 09 016 025
+    i//=2#0 02 04 08 012
+    i%=2 # 0 00 00 00 00
     print(i,end="")
