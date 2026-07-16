@@ -1,4 +1,4 @@
 for i in range(65,91):
-    ch = i
+    ch = (Ch)
     print(ch)
     print(i)

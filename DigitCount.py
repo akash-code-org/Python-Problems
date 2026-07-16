@@ -1,4 +1,4 @@
-n = int(input("Enter a number: "))
+n = int(input("Enter a number: ")) # Not solved
 count = 0
 while n!=0:
     n = n/10
